@@ -1,0 +1,15 @@
+D:\dev\Practices\TwoMonthCSharpPratices\OneWeek.ControlFlow\bin\Debug\net8.0\OneWeek.ControlFlow.exe
+D:\dev\Practices\TwoMonthCSharpPratices\OneWeek.ControlFlow\bin\Debug\net8.0\OneWeek.ControlFlow.deps.json
+D:\dev\Practices\TwoMonthCSharpPratices\OneWeek.ControlFlow\bin\Debug\net8.0\OneWeek.ControlFlow.runtimeconfig.json
+D:\dev\Practices\TwoMonthCSharpPratices\OneWeek.ControlFlow\bin\Debug\net8.0\OneWeek.ControlFlow.dll
+D:\dev\Practices\TwoMonthCSharpPratices\OneWeek.ControlFlow\bin\Debug\net8.0\OneWeek.ControlFlow.pdb
+D:\dev\Practices\TwoMonthCSharpPratices\OneWeek.ControlFlow\obj\Debug\net8.0\OneWeek.ControlFlow.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\Practices\TwoMonthCSharpPratices\OneWeek.ControlFlow\obj\Debug\net8.0\OneWeek.ControlFlow.AssemblyInfoInputs.cache
+D:\dev\Practices\TwoMonthCSharpPratices\OneWeek.ControlFlow\obj\Debug\net8.0\OneWeek.ControlFlow.AssemblyInfo.cs
+D:\dev\Practices\TwoMonthCSharpPratices\OneWeek.ControlFlow\obj\Debug\net8.0\OneWeek.ControlFlow.csproj.CoreCompileInputs.cache
+D:\dev\Practices\TwoMonthCSharpPratices\OneWeek.ControlFlow\obj\Debug\net8.0\OneWeek.ControlFlow.sourcelink.json
+D:\dev\Practices\TwoMonthCSharpPratices\OneWeek.ControlFlow\obj\Debug\net8.0\OneWeek.ControlFlow.dll
+D:\dev\Practices\TwoMonthCSharpPratices\OneWeek.ControlFlow\obj\Debug\net8.0\refint\OneWeek.ControlFlow.dll
+D:\dev\Practices\TwoMonthCSharpPratices\OneWeek.ControlFlow\obj\Debug\net8.0\OneWeek.ControlFlow.pdb
+D:\dev\Practices\TwoMonthCSharpPratices\OneWeek.ControlFlow\obj\Debug\net8.0\OneWeek.ControlFlow.genruntimeconfig.cache
+D:\dev\Practices\TwoMonthCSharpPratices\OneWeek.ControlFlow\obj\Debug\net8.0\ref\OneWeek.ControlFlow.dll
