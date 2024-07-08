@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OneWeek.ClassAndObject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+514166788f94ff05bcd3e92cc3999ab88d4c6759")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+853f1d5d444ab9acf5228b805bfd971925af592d")]
 [assembly: System.Reflection.AssemblyProductAttribute("OneWeek.ClassAndObject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OneWeek.ClassAndObject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

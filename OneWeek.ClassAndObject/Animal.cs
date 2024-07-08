@@ -1,4 +1,4 @@
-//Inheretance - meros
+//Dynamic polymorhism
 
 namespace OneWeek.ClassAndObjects;
 
