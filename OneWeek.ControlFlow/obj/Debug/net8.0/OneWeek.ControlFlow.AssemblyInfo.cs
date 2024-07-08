@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OneWeek.ControlFlow")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47c8c58eefeaa826c0db856010faefdd119a668b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2af17a80cfb7e9d309c3818919bebc3aadfa7323")]
 [assembly: System.Reflection.AssemblyProductAttribute("OneWeek.ControlFlow")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OneWeek.ControlFlow")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
