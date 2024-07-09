@@ -1,7 +1,6 @@
-//Dynamic polymorhism
-
 namespace OneWeek.ClassAndObjects;
 
+//Dynamic polymorhism
 public class Animal
 {
     public virtual void Ovoz()

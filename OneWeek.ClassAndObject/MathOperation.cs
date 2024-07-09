@@ -1,6 +1,6 @@
-//Sintaksis polymorhism
 namespace OneWeek.ClassAndObjects;
 
+//Sintaksis polymorhism
 public class MathOperation
 {
     public int Add(int n, int m)

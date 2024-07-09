@@ -1,5 +1,6 @@
 namespace OneWeek.ClassAndObject;
 
+//Class & Object
 public class Car
 {
     public string Model { get; set; }
