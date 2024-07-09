@@ -1,5 +1,4 @@
-﻿using OneWeek.ClassAndObject;
-using OneWeek.ClassAndObjects;
+﻿using TwoWeek.ClassAndObject;
 
 //Class and Object
 // Car newCar = new Car();

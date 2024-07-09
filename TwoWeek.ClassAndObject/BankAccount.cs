@@ -1,4 +1,4 @@
-namespace OneWeek.ClassAndObject;
+namespace TwoWeek.ClassAndObject;
 
 //Encapsution
 public class BankAccount

@@ -1,4 +1,4 @@
-namespace OneWeek.ClassAndObjects;
+namespace TwoWeek.ClassAndObject;
 
 //Sintaksis polymorhism
 public class MathOperation

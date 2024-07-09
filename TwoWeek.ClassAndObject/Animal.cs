@@ -1,4 +1,4 @@
-namespace OneWeek.ClassAndObjects;
+namespace TwoWeek.ClassAndObject;
 
 //Dynamic polymorhism
 public class Animal

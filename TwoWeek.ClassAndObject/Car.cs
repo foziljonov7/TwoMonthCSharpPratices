@@ -1,4 +1,4 @@
-namespace OneWeek.ClassAndObject;
+namespace TwoWeek.ClassAndObject;
 
 //Class & Object
 public class Car
