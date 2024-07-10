@@ -81,3 +81,14 @@
 //         print("Uzbekistan");
 //     }
 // }
+
+
+Publisher publisher = new Publisher();
+
+Subscriber subscriber1 = new Subscriber("Subscriber 1");
+Subscriber subscriber2 = new Subscriber("Subscriber 2");
+
+publisher.Notify += subscriber1.OnNotifyReceived;
+publisher.Notify += subscriber2.OnNotifyReceived;
+
+publisher.DoSomething();
