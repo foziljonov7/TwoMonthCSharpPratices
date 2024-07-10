@@ -1,0 +1,15 @@
+D:\dev\Practices\TwoMonthCSharpPratices\ThreeWeek.Advanced\bin\Debug\net8.0\ThreeWeek.Advanced.exe
+D:\dev\Practices\TwoMonthCSharpPratices\ThreeWeek.Advanced\bin\Debug\net8.0\ThreeWeek.Advanced.deps.json
+D:\dev\Practices\TwoMonthCSharpPratices\ThreeWeek.Advanced\bin\Debug\net8.0\ThreeWeek.Advanced.runtimeconfig.json
+D:\dev\Practices\TwoMonthCSharpPratices\ThreeWeek.Advanced\bin\Debug\net8.0\ThreeWeek.Advanced.dll
+D:\dev\Practices\TwoMonthCSharpPratices\ThreeWeek.Advanced\bin\Debug\net8.0\ThreeWeek.Advanced.pdb
+D:\dev\Practices\TwoMonthCSharpPratices\ThreeWeek.Advanced\obj\Debug\net8.0\ThreeWeek.Advanced.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\Practices\TwoMonthCSharpPratices\ThreeWeek.Advanced\obj\Debug\net8.0\ThreeWeek.Advanced.AssemblyInfoInputs.cache
+D:\dev\Practices\TwoMonthCSharpPratices\ThreeWeek.Advanced\obj\Debug\net8.0\ThreeWeek.Advanced.AssemblyInfo.cs
+D:\dev\Practices\TwoMonthCSharpPratices\ThreeWeek.Advanced\obj\Debug\net8.0\ThreeWeek.Advanced.csproj.CoreCompileInputs.cache
+D:\dev\Practices\TwoMonthCSharpPratices\ThreeWeek.Advanced\obj\Debug\net8.0\ThreeWeek.Advanced.sourcelink.json
+D:\dev\Practices\TwoMonthCSharpPratices\ThreeWeek.Advanced\obj\Debug\net8.0\ThreeWeek.Advanced.dll
+D:\dev\Practices\TwoMonthCSharpPratices\ThreeWeek.Advanced\obj\Debug\net8.0\refint\ThreeWeek.Advanced.dll
+D:\dev\Practices\TwoMonthCSharpPratices\ThreeWeek.Advanced\obj\Debug\net8.0\ThreeWeek.Advanced.pdb
+D:\dev\Practices\TwoMonthCSharpPratices\ThreeWeek.Advanced\obj\Debug\net8.0\ThreeWeek.Advanced.genruntimeconfig.cache
+D:\dev\Practices\TwoMonthCSharpPratices\ThreeWeek.Advanced\obj\Debug\net8.0\ref\ThreeWeek.Advanced.dll
