@@ -83,12 +83,32 @@
 // }
 
 
-Publisher publisher = new Publisher();
+// Publisher publisher = new Publisher();
 
-Subscriber subscriber1 = new Subscriber("Subscriber 1");
-Subscriber subscriber2 = new Subscriber("Subscriber 2");
+// Subscriber subscriber1 = new Subscriber("Subscriber 1");
+// Subscriber subscriber2 = new Subscriber("Subscriber 2");
 
-publisher.Notify += subscriber1.OnNotifyReceived;
-publisher.Notify += subscriber2.OnNotifyReceived;
+// publisher.Notify += subscriber1.OnNotifyReceived;
+// publisher.Notify += subscriber2.OnNotifyReceived;
 
-publisher.DoSomething();
+// publisher.DoSomething();
+
+int[] array = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+
+Console.WriteLine(GetInt(array, 9));
+
+int GetInt(int[] array, int index)
+{
+    try
+    {
+        return array[index];
+    }
+    catch (IndexOutOfRangeException ex) when (index < 0)
+    {
+        throw new ArgumentOutOfRangeException("Parameter index out of range", ex);
+    }
+    catch(IndexOutOfRangeException ex)
+    {
+        throw new ArgumentOutOfRangeException("Parameter index cannot be greater than the array size.", ex);
+    }
+}
