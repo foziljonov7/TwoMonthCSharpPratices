@@ -93,22 +93,22 @@
 
 // publisher.DoSomething();
 
-int[] array = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+// int[] array = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
 
-Console.WriteLine(GetInt(array, 9));
+// Console.WriteLine(GetInt(array, 9));
 
-int GetInt(int[] array, int index)
-{
-    try
-    {
-        return array[index];
-    }
-    catch (IndexOutOfRangeException ex) when (index < 0)
-    {
-        throw new ArgumentOutOfRangeException("Parameter index out of range", ex);
-    }
-    catch(IndexOutOfRangeException ex)
-    {
-        throw new ArgumentOutOfRangeException("Parameter index cannot be greater than the array size.", ex);
-    }
-}
+// int GetInt(int[] array, int index)
+// {
+//     try
+//     {
+//         return array[index];
+//     }
+//     catch (IndexOutOfRangeException ex) when (index < 0)
+//     {
+//         throw new ArgumentOutOfRangeException("Parameter index out of range", ex);
+//     }
+//     catch(IndexOutOfRangeException ex)
+//     {
+//         throw new ArgumentOutOfRangeException("Parameter index cannot be greater than the array size.", ex);
+//     }
+// }

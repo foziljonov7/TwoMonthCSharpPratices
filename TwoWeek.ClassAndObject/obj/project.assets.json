@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dev\\Practices\\TwoMonthCSharpPratices\\OneWeek.ClassAndObject\\OneWeek.ClassAndObject.csproj",
+      "projectUniqueName": "D:\\dev\\Practices\\TwoMonthCSharpPratices\\TwoWeek.ClassAndObject\\OneWeek.ClassAndObject.csproj",
       "projectName": "OneWeek.ClassAndObject",
-      "projectPath": "D:\\dev\\Practices\\TwoMonthCSharpPratices\\OneWeek.ClassAndObject\\OneWeek.ClassAndObject.csproj",
+      "projectPath": "D:\\dev\\Practices\\TwoMonthCSharpPratices\\TwoWeek.ClassAndObject\\OneWeek.ClassAndObject.csproj",
       "packagesPath": "C:\\Users\\abdul\\.nuget\\packages\\",
-      "outputPath": "D:\\dev\\Practices\\TwoMonthCSharpPratices\\OneWeek.ClassAndObject\\obj\\",
+      "outputPath": "D:\\dev\\Practices\\TwoMonthCSharpPratices\\TwoWeek.ClassAndObject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
