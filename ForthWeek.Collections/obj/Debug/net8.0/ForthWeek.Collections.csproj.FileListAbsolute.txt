@@ -1,0 +1,15 @@
+D:\dev\Practices\TwoMonthCSharpPratices\ForthWeek.Collections\bin\Debug\net8.0\ForthWeek.Collections.exe
+D:\dev\Practices\TwoMonthCSharpPratices\ForthWeek.Collections\bin\Debug\net8.0\ForthWeek.Collections.deps.json
+D:\dev\Practices\TwoMonthCSharpPratices\ForthWeek.Collections\bin\Debug\net8.0\ForthWeek.Collections.runtimeconfig.json
+D:\dev\Practices\TwoMonthCSharpPratices\ForthWeek.Collections\bin\Debug\net8.0\ForthWeek.Collections.dll
+D:\dev\Practices\TwoMonthCSharpPratices\ForthWeek.Collections\bin\Debug\net8.0\ForthWeek.Collections.pdb
+D:\dev\Practices\TwoMonthCSharpPratices\ForthWeek.Collections\obj\Debug\net8.0\ForthWeek.Collections.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\Practices\TwoMonthCSharpPratices\ForthWeek.Collections\obj\Debug\net8.0\ForthWeek.Collections.AssemblyInfoInputs.cache
+D:\dev\Practices\TwoMonthCSharpPratices\ForthWeek.Collections\obj\Debug\net8.0\ForthWeek.Collections.AssemblyInfo.cs
+D:\dev\Practices\TwoMonthCSharpPratices\ForthWeek.Collections\obj\Debug\net8.0\ForthWeek.Collections.csproj.CoreCompileInputs.cache
+D:\dev\Practices\TwoMonthCSharpPratices\ForthWeek.Collections\obj\Debug\net8.0\ForthWeek.Collections.sourcelink.json
+D:\dev\Practices\TwoMonthCSharpPratices\ForthWeek.Collections\obj\Debug\net8.0\ForthWeek.Collections.dll
+D:\dev\Practices\TwoMonthCSharpPratices\ForthWeek.Collections\obj\Debug\net8.0\refint\ForthWeek.Collections.dll
+D:\dev\Practices\TwoMonthCSharpPratices\ForthWeek.Collections\obj\Debug\net8.0\ForthWeek.Collections.pdb
+D:\dev\Practices\TwoMonthCSharpPratices\ForthWeek.Collections\obj\Debug\net8.0\ForthWeek.Collections.genruntimeconfig.cache
+D:\dev\Practices\TwoMonthCSharpPratices\ForthWeek.Collections\obj\Debug\net8.0\ref\ForthWeek.Collections.dll
