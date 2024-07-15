@@ -1,4 +1,6 @@
-﻿//Collections
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
+//Collections
 
 // List<int> numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
@@ -131,3 +133,25 @@
 
 // foreach (var set in hashSet)
 //     Console.WriteLine(set);
+
+//Generics
+// GenericList<int> list1 = new GenericList<int>();
+// list1.Add(1);
+
+// GenericList<string> list2 = new GenericList<string>();
+// list2.Add("foziljonov7");
+
+// Console.WriteLine(list1[0]);
+
+// Console.WriteLine(list2[0]);
+
+//LINQ
+int[] scored = [100, 71, 93, 80, 84, 69];
+
+IEnumerable<int> scoreQuery =
+    from score in scored
+    where score > 80
+    select score;
+
+foreach (int score in scoreQuery)
+    Console.WriteLine(score + " ");
