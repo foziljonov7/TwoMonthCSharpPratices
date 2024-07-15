@@ -146,12 +146,45 @@ Console.WriteLine("Hello, World!");
 // Console.WriteLine(list2[0]);
 
 //LINQ
-int[] scored = [100, 71, 93, 80, 84, 69];
+// int[] scored = [100, 71, 93, 80, 84, 69];
 
-IEnumerable<int> scoreQuery =
-    from score in scored
-    where score > 80
-    select score;
+// IEnumerable<int> scoreQuery =
+//     from score in scored
+//     where score > 80
+//     select score;
 
-foreach (int score in scoreQuery)
-    Console.WriteLine(score + " ");
+// foreach (int score in scoreQuery)
+//     Console.WriteLine(score + " ");
+
+// List<int> numbers = new List<int>{0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+
+// var evenNumbers = numbers.Where(n => n % 2 == 0);
+
+// foreach (var evenNumber in evenNumbers)
+//     Console.WriteLine(evenNumber);
+
+// List<string> fruits = new List<string> {"Banana", "Apple", "Cherry", "date"};
+
+// var sortedFruits = fruits.Where(f => f.StartsWith("A"))
+//     .Select(f => f.ToLower());
+
+// foreach(var fruit in sortedFruits)
+//     Console.WriteLine(fruit);
+
+// List<string> names = new List<string>{"Muhammadjon", "Ilhom", "Abdulvosid"};
+
+// var sortedNames = names.OrderBy(n => n);
+
+// foreach(var name in sortedNames)
+//     Console.WriteLine(name);
+
+// List<string> words = new List<string>{"CRTL", "SHIFT", "ALT", "TAB", "UP", "DOWN", "Backspace"};
+
+// var groupWords = words.GroupBy(word => word[0]);
+
+// foreach(var group in groupWords)
+// {
+//     Console.WriteLine(group.Key);
+//     foreach(var word in group)
+//         Console.WriteLine(word);
+// }
