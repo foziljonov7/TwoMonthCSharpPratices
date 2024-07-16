@@ -1,5 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
 //Collections
 
 // List<int> numbers = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
@@ -188,3 +187,27 @@ Console.WriteLine("Hello, World!");
 //     foreach(var word in group)
 //         Console.WriteLine(word);
 // }
+
+//Lazy
+// Lazy<List<string>> lazyCollection = new Lazy<List<string>>(() =>
+// {
+//     Console.WriteLine("Collection is being initialized");
+//     return new List<string> { "One", "Two", "Three" };
+// }); 
+
+// Console.WriteLine("Before accessing the collection:");
+// foreach (var item in lazyCollection.Value)
+// {
+//     Console.WriteLine(item);
+// }
+
+Lazy<int> number = new Lazy<int>(() => Thread.CurrentThread.ManagedThreadId);
+
+Thread t1 = new Thread(() => Console.WriteLine("number: 1 on t1 = {0} ThreadId = {1}", number.Value, Thread.CurrentThread.ManagedThreadId));
+t1.Start();
+
+Thread t2 = new Thread(() => Console.WriteLine("number: 2 on t2 = {0} ThreadId = {1}", number.Value, Thread.CurrentThread.ManagedThreadId));
+t2.Start();
+
+t1.Join();
+t2.Join();
