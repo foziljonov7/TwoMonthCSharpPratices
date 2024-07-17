@@ -53,3 +53,17 @@
 // });
 
 // Console.WriteLine("Barchasi qayta ishlandi.");
+
+//IAsyncEnumrable<T>
+
+// await foreach(var number in GeneratorAsync())
+//     Console.WriteLine(number);
+
+// static async IAsyncEnumerable<int> GeneratorAsync()
+// {
+//     for(int i = 0; i <= 10; i++)
+//     {
+//         await Task.Delay(1000);
+//         yield return i;
+//     }
+// }
