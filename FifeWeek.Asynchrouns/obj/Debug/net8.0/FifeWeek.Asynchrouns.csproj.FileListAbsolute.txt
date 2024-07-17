@@ -1,0 +1,15 @@
+D:\dev\Practices\TwoMonthCSharpPratices\FifeWeek.Asynchrouns\bin\Debug\net8.0\FifeWeek.Asynchrouns.exe
+D:\dev\Practices\TwoMonthCSharpPratices\FifeWeek.Asynchrouns\bin\Debug\net8.0\FifeWeek.Asynchrouns.deps.json
+D:\dev\Practices\TwoMonthCSharpPratices\FifeWeek.Asynchrouns\bin\Debug\net8.0\FifeWeek.Asynchrouns.runtimeconfig.json
+D:\dev\Practices\TwoMonthCSharpPratices\FifeWeek.Asynchrouns\bin\Debug\net8.0\FifeWeek.Asynchrouns.dll
+D:\dev\Practices\TwoMonthCSharpPratices\FifeWeek.Asynchrouns\bin\Debug\net8.0\FifeWeek.Asynchrouns.pdb
+D:\dev\Practices\TwoMonthCSharpPratices\FifeWeek.Asynchrouns\obj\Debug\net8.0\FifeWeek.Asynchrouns.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\Practices\TwoMonthCSharpPratices\FifeWeek.Asynchrouns\obj\Debug\net8.0\FifeWeek.Asynchrouns.AssemblyInfoInputs.cache
+D:\dev\Practices\TwoMonthCSharpPratices\FifeWeek.Asynchrouns\obj\Debug\net8.0\FifeWeek.Asynchrouns.AssemblyInfo.cs
+D:\dev\Practices\TwoMonthCSharpPratices\FifeWeek.Asynchrouns\obj\Debug\net8.0\FifeWeek.Asynchrouns.csproj.CoreCompileInputs.cache
+D:\dev\Practices\TwoMonthCSharpPratices\FifeWeek.Asynchrouns\obj\Debug\net8.0\FifeWeek.Asynchrouns.sourcelink.json
+D:\dev\Practices\TwoMonthCSharpPratices\FifeWeek.Asynchrouns\obj\Debug\net8.0\FifeWeek.Asynchrouns.dll
+D:\dev\Practices\TwoMonthCSharpPratices\FifeWeek.Asynchrouns\obj\Debug\net8.0\refint\FifeWeek.Asynchrouns.dll
+D:\dev\Practices\TwoMonthCSharpPratices\FifeWeek.Asynchrouns\obj\Debug\net8.0\FifeWeek.Asynchrouns.pdb
+D:\dev\Practices\TwoMonthCSharpPratices\FifeWeek.Asynchrouns\obj\Debug\net8.0\FifeWeek.Asynchrouns.genruntimeconfig.cache
+D:\dev\Practices\TwoMonthCSharpPratices\FifeWeek.Asynchrouns\obj\Debug\net8.0\ref\FifeWeek.Asynchrouns.dll
