@@ -201,13 +201,13 @@
 //     Console.WriteLine(item);
 // }
 
-Lazy<int> number = new Lazy<int>(() => Thread.CurrentThread.ManagedThreadId);
+// Lazy<int> number = new Lazy<int>(() => Thread.CurrentThread.ManagedThreadId);
 
-Thread t1 = new Thread(() => Console.WriteLine("number: 1 on t1 = {0} ThreadId = {1}", number.Value, Thread.CurrentThread.ManagedThreadId));
-t1.Start();
+// Thread t1 = new Thread(() => Console.WriteLine("number: 1 on t1 = {0} ThreadId = {1}", number.Value, Thread.CurrentThread.ManagedThreadId));
+// t1.Start();
 
-Thread t2 = new Thread(() => Console.WriteLine("number: 2 on t2 = {0} ThreadId = {1}", number.Value, Thread.CurrentThread.ManagedThreadId));
-t2.Start();
+// Thread t2 = new Thread(() => Console.WriteLine("number: 2 on t2 = {0} ThreadId = {1}", number.Value, Thread.CurrentThread.ManagedThreadId));
+// t2.Start();
 
-t1.Join();
-t2.Join();
+// t1.Join();
+// t2.Join();
