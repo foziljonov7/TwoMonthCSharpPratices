@@ -52,6 +52,12 @@
 //     Task.Delay(100).Wait();
 // });
 
+// Parallel.For(0, 20, i=>
+// {
+//     Console.WriteLine($"output: {i}.");
+//     Task.Delay(500).Wait();
+// });
+
 // Console.WriteLine("Barchasi qayta ishlandi.");
 
 //IAsyncEnumrable<T>
