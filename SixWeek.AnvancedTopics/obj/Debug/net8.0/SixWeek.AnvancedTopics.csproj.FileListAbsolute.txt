@@ -1,0 +1,15 @@
+D:\dev\Practices\TwoMonthCSharpPratices\SixWeek.AnvancedTopics\bin\Debug\net8.0\SixWeek.AnvancedTopics.exe
+D:\dev\Practices\TwoMonthCSharpPratices\SixWeek.AnvancedTopics\bin\Debug\net8.0\SixWeek.AnvancedTopics.deps.json
+D:\dev\Practices\TwoMonthCSharpPratices\SixWeek.AnvancedTopics\bin\Debug\net8.0\SixWeek.AnvancedTopics.runtimeconfig.json
+D:\dev\Practices\TwoMonthCSharpPratices\SixWeek.AnvancedTopics\bin\Debug\net8.0\SixWeek.AnvancedTopics.dll
+D:\dev\Practices\TwoMonthCSharpPratices\SixWeek.AnvancedTopics\bin\Debug\net8.0\SixWeek.AnvancedTopics.pdb
+D:\dev\Practices\TwoMonthCSharpPratices\SixWeek.AnvancedTopics\obj\Debug\net8.0\SixWeek.AnvancedTopics.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\Practices\TwoMonthCSharpPratices\SixWeek.AnvancedTopics\obj\Debug\net8.0\SixWeek.AnvancedTopics.AssemblyInfoInputs.cache
+D:\dev\Practices\TwoMonthCSharpPratices\SixWeek.AnvancedTopics\obj\Debug\net8.0\SixWeek.AnvancedTopics.AssemblyInfo.cs
+D:\dev\Practices\TwoMonthCSharpPratices\SixWeek.AnvancedTopics\obj\Debug\net8.0\SixWeek.AnvancedTopics.csproj.CoreCompileInputs.cache
+D:\dev\Practices\TwoMonthCSharpPratices\SixWeek.AnvancedTopics\obj\Debug\net8.0\SixWeek.AnvancedTopics.sourcelink.json
+D:\dev\Practices\TwoMonthCSharpPratices\SixWeek.AnvancedTopics\obj\Debug\net8.0\SixWeek.AnvancedTopics.dll
+D:\dev\Practices\TwoMonthCSharpPratices\SixWeek.AnvancedTopics\obj\Debug\net8.0\refint\SixWeek.AnvancedTopics.dll
+D:\dev\Practices\TwoMonthCSharpPratices\SixWeek.AnvancedTopics\obj\Debug\net8.0\SixWeek.AnvancedTopics.pdb
+D:\dev\Practices\TwoMonthCSharpPratices\SixWeek.AnvancedTopics\obj\Debug\net8.0\SixWeek.AnvancedTopics.genruntimeconfig.cache
+D:\dev\Practices\TwoMonthCSharpPratices\SixWeek.AnvancedTopics\obj\Debug\net8.0\ref\SixWeek.AnvancedTopics.dll
