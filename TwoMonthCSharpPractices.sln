@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FifeWeek.Asynchrouns", "Fif
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SixWeek.AnvancedTopics", "SixWeek.AnvancedTopics\SixWeek.AnvancedTopics.csproj", "{7C71A03F-0333-498D-AB3D-A4D62F92D072}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seventh.Week", "Seventh.Week\Seventh.Week.csproj", "{D66AFAA4-EED3-4A85-8F5A-B27372FA67A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{7C71A03F-0333-498D-AB3D-A4D62F92D072}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C71A03F-0333-498D-AB3D-A4D62F92D072}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C71A03F-0333-498D-AB3D-A4D62F92D072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D66AFAA4-EED3-4A85-8F5A-B27372FA67A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D66AFAA4-EED3-4A85-8F5A-B27372FA67A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D66AFAA4-EED3-4A85-8F5A-B27372FA67A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D66AFAA4-EED3-4A85-8F5A-B27372FA67A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
