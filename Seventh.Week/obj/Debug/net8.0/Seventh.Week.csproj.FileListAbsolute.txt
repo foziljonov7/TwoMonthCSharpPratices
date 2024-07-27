@@ -1,0 +1,15 @@
+D:\dev\Practices\TwoMonthCSharpPratices\Seventh.Week\bin\Debug\net8.0\Seventh.Week.exe
+D:\dev\Practices\TwoMonthCSharpPratices\Seventh.Week\bin\Debug\net8.0\Seventh.Week.deps.json
+D:\dev\Practices\TwoMonthCSharpPratices\Seventh.Week\bin\Debug\net8.0\Seventh.Week.runtimeconfig.json
+D:\dev\Practices\TwoMonthCSharpPratices\Seventh.Week\bin\Debug\net8.0\Seventh.Week.dll
+D:\dev\Practices\TwoMonthCSharpPratices\Seventh.Week\bin\Debug\net8.0\Seventh.Week.pdb
+D:\dev\Practices\TwoMonthCSharpPratices\Seventh.Week\obj\Debug\net8.0\Seventh.Week.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\Practices\TwoMonthCSharpPratices\Seventh.Week\obj\Debug\net8.0\Seventh.Week.AssemblyInfoInputs.cache
+D:\dev\Practices\TwoMonthCSharpPratices\Seventh.Week\obj\Debug\net8.0\Seventh.Week.AssemblyInfo.cs
+D:\dev\Practices\TwoMonthCSharpPratices\Seventh.Week\obj\Debug\net8.0\Seventh.Week.csproj.CoreCompileInputs.cache
+D:\dev\Practices\TwoMonthCSharpPratices\Seventh.Week\obj\Debug\net8.0\Seventh.Week.sourcelink.json
+D:\dev\Practices\TwoMonthCSharpPratices\Seventh.Week\obj\Debug\net8.0\Seventh.Week.dll
+D:\dev\Practices\TwoMonthCSharpPratices\Seventh.Week\obj\Debug\net8.0\refint\Seventh.Week.dll
+D:\dev\Practices\TwoMonthCSharpPratices\Seventh.Week\obj\Debug\net8.0\Seventh.Week.pdb
+D:\dev\Practices\TwoMonthCSharpPratices\Seventh.Week\obj\Debug\net8.0\Seventh.Week.genruntimeconfig.cache
+D:\dev\Practices\TwoMonthCSharpPratices\Seventh.Week\obj\Debug\net8.0\ref\Seventh.Week.dll
