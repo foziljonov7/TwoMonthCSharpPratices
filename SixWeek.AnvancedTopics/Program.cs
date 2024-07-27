@@ -71,3 +71,10 @@ using SixWeek.AncancedTopics;
 // Func<int, int> func = expression.Compile();
 
 // Console.WriteLine(func(5));
+
+
+// Expression<Func<int, bool>> expression = n => n % 2 == 0;
+
+// Func<int, bool> func = expression.Compile();
+
+// Console.WriteLine($"output: {func(4)}");
